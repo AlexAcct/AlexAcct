@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @AlexAcct, a Master's student studying financial accounting at Seoul National University
-- 👀 I’m interested in machine learning application in accounting and finance
-- 🌱 I’m currently learning natural language processing and network model
+- 👋 Hi, I’m @AlexAcct, an incoming accounting PhD student at the University of Chicago, Booth School of Business.
+- 👀 In a methodological manner, I am interested in machine learning application in accounting and finance.
 - 📫 How to reach me: kimgunwoo95@snu.ac.kr
 
 <!---
